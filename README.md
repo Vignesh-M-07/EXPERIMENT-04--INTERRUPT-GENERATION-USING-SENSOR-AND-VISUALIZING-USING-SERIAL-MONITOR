@@ -2,9 +2,9 @@
 
 ###  DATE: 10.04.25
 
-###  NAME : vignesh M
+###  NAME: Vignesh M
 ###  ROLL NO : 212223040235
-###  DEPARTMENT : CSE
+###  DEPARTMENT: CSE
 ### Aim:
 To Interface a IR Sensor to digital port of iot development board  and generate an interrupt and visualize on the serial monitor 
 
@@ -170,8 +170,9 @@ PUTCHAR_PROTOTYPE{
 
  
  ## Circuit board :
-![image](https://github.com/user-attachments/assets/27f2c9ba-82cf-4dd6-8103-78c4d3e54665)
+ ![image](https://github.com/user-attachments/assets/f63b745e-21f0-42a4-a67f-06ae00bf5b01)
 
  
  ## Result :
-Interfacing a  IR SENSOR and interrupt is generated using external interrupt mode , visualized on serial port
+Interfacing a  IR SENSOR and interrupt is generated using external interrupt mode , visualized on serial port 
+
